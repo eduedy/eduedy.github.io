@@ -1,0 +1,34 @@
+body {
+  font-family: "Malgun Gothic", sans-serif;
+  margin: 0;
+  color: #24292f;
+}
+
+header {
+  padding: 20px 40px;
+  background-color: #dfe7f5;
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.hero {
+  padding: 60px 40px;
+  background-color: #f6f8fa;
+}
+
+.cards {
+  display: flex;
+  gap: 20px;
+  padding: 40px;
+}
+
+.card {
+  width: 30%;
+  padding: 40px 0;
+  text-align: center;
+  border: 2px solid #d6d8dd;
+  border-radius: 12px;
+}
